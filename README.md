@@ -35,12 +35,6 @@ according to availability and cost).
 The interaction between the various providers (eMSPs, CPOs, and DSOs) occurs through uniform APIs. Thanks to this, an eMSP can interact with multiple CPOs and, on the other side, a CPO can interact with multiple eMSPs. Hence, users can exploit a large variety of charging options. Similarly, a CPO can interact with multiple DSOs and vice versa.
 
 
-
-Since we use Google Docs to write the document here there are links to see all the commit of the documents:
-* [RASD](https://docs.google.com/document/d/1ju-7AX9Tz9ayZfkL_pCP9Dp0biPJw3X0B6gOYnlgNpg/edit?usp=sharing)
-* [DD](https://docs.google.com/document/d/1xIC5BhXMgeH1dTUm2VwmDXSwa731cpfF-aqMFoGGU9w/edit?usp=sharing)
-
-
 We decided  to put all the images in the RASD and DD folder in order to have in the deliveryFolder only the documents. So we have uploaded all the updated diagrams in the folder in whuch they are related, i.e. to see the component's view images he should enter in the DD folder then in component's view subfolder and there will found all the images that are already in the document. same thing for all the other diagrams.
 
 
